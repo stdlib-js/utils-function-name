@@ -110,7 +110,7 @@ tape( 'if provided an anonymous function, the function returns an empty string o
 
 tape( 'the function supports returning a function name in ES5 and earlier environments', function test( t ) {
 	var functionName = proxyquire( './../lib/function_name.js', {
-		'@stdlib/assert/has-function-name-support': stub
+		'@stdlib/assert-has-function-name-support': stub
 	});
 	t.equal( functionName( beep ), 'beep', 'returns beep' );
 	t.end();
