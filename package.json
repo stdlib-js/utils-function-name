@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-function-name",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Determine a function's name.",
   "license": "Apache-2.0",
   "author": {
