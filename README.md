@@ -144,6 +144,12 @@ v = functionName( function () {} );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/constructor-name`][@stdlib/utils/constructor-name]: determine the name of a value's constructor.
+
 </section>
 
 <!-- /.related -->
@@ -210,6 +216,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [webkit-bug-7726]: https://bugs.webkit.org/show_bug.cgi?id=7726
 
 [mdn-function-name]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/name
+
+<!-- <related-links> -->
+
+[@stdlib/utils/constructor-name]: https://github.com/stdlib-js/utils-constructor-name
+
+<!-- </related-links> -->
 
 </section>
 
