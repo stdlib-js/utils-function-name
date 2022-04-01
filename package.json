@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/assert-has-function-name-support": "^0.0.x",
     "@stdlib/assert-is-function": "^0.0.x",
-    "@stdlib/regexp-function-name": "^0.0.x"
+    "@stdlib/regexp-function-name": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/array-buffer": "^0.0.x",
