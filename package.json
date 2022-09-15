@@ -55,6 +55,7 @@
     "@stdlib/array-uint8c": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
+    "@stdlib/boolean-ctor": "^0.0.x",
     "@stdlib/buffer-ctor": "^0.0.x",
     "@stdlib/function-ctor": "^0.0.x",
     "@stdlib/number-ctor": "^0.0.x",
