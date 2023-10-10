@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-function-name/tags). For example,
+
+```javascript
 import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@v0.1.1-deno/mod.js';
 ```
 
@@ -106,7 +111,7 @@ try {
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
 import Buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer-ctor@deno/mod.js';
 import Number from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@deno/mod.js';
-import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@v0.1.1-deno/mod.js';
+import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@deno/mod.js';
 
 var v = functionName( Math.sqrt );
 // returns 'sqrt'
