@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-function-name",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Determine a function's name.",
   "license": "Apache-2.0",
   "author": {
@@ -37,10 +37,10 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-function-name-support": "^0.1.1",
-    "@stdlib/assert-is-function": "^0.1.1",
-    "@stdlib/regexp-function-name": "^0.1.1",
-    "@stdlib/string-format": "^0.1.1"
+    "@stdlib/assert-has-function-name-support": "^0.2.0",
+    "@stdlib/assert-is-function": "^0.2.0",
+    "@stdlib/regexp-function-name": "^0.2.0",
+    "@stdlib/string-format": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/array-buffer": "^0.1.0",
@@ -56,7 +56,7 @@
     "@stdlib/assert-is-string": "^0.1.1",
     "@stdlib/boolean-ctor": "^0.1.1",
     "@stdlib/buffer-ctor": "^0.1.1",
-    "@stdlib/function-ctor": "^0.1.1",
+    "@stdlib/function-ctor": "^0.2.0",
     "@stdlib/number-ctor": "^0.1.1",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
