@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@deno/mod.js';
+import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@v0.2.1-deno/mod.js';
 ```
 
 #### functionName( fcn )
@@ -108,7 +108,7 @@ import Buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer-ctor@deno/mod.j
 import Number from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@deno/mod.js';
 import Boolean from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean-ctor@deno/mod.js';
 import Function from 'https://cdn.jsdelivr.net/gh/stdlib-js/function-ctor@deno/mod.js';
-import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@deno/mod.js';
+import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@v0.2.1-deno/mod.js';
 
 var v = functionName( Math.sqrt );
 // returns 'sqrt'
