@@ -40,19 +40,20 @@
     "@stdlib/assert-has-function-name-support": "^0.2.1",
     "@stdlib/assert-is-function": "^0.2.1",
     "@stdlib/regexp-function-name": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1"
+    "@stdlib/string-format": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/array-buffer": "^0.2.0",
-    "@stdlib/array-float32": "^0.2.0",
-    "@stdlib/array-float64": "^0.2.0",
-    "@stdlib/array-int16": "^0.2.0",
-    "@stdlib/array-int32": "^0.2.0",
-    "@stdlib/array-int8": "^0.2.0",
-    "@stdlib/array-uint16": "^0.2.0",
-    "@stdlib/array-uint32": "^0.2.0",
-    "@stdlib/array-uint8": "^0.2.0",
-    "@stdlib/array-uint8c": "^0.2.0",
+    "@stdlib/array-buffer": "^0.2.1",
+    "@stdlib/array-float32": "^0.2.1",
+    "@stdlib/array-float64": "^0.2.1",
+    "@stdlib/array-int16": "^0.2.1",
+    "@stdlib/array-int32": "^0.2.1",
+    "@stdlib/array-int8": "^0.2.1",
+    "@stdlib/array-uint16": "^0.2.1",
+    "@stdlib/array-uint32": "^0.2.1",
+    "@stdlib/array-uint8": "^0.2.1",
+    "@stdlib/array-uint8c": "^0.2.1",
     "@stdlib/assert-is-string": "^0.2.1",
     "@stdlib/boolean-ctor": "^0.2.1",
     "@stdlib/buffer-ctor": "^0.2.1",
@@ -62,7 +63,7 @@
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
