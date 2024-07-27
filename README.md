@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-function-name/tags). For example,
+
+```javascript
 import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@v0.2.2-esm/index.mjs';
 ```
 
@@ -113,7 +118,7 @@ import Buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer-ctor@esm/index.
 import Number from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@esm/index.mjs';
 import Boolean from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean-ctor@esm/index.mjs';
 import Function from 'https://cdn.jsdelivr.net/gh/stdlib-js/function-ctor@esm/index.mjs';
-import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@v0.2.2-esm/index.mjs';
+import functionName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-function-name@esm/index.mjs';
 
 var v = functionName( Math.sqrt );
 // returns 'sqrt'
