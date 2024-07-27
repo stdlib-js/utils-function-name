@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-function-name",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Determine a function's name.",
   "license": "Apache-2.0",
   "author": {
@@ -38,10 +38,10 @@
   },
   "dependencies": {
     "@stdlib/assert-has-function-name-support": "^0.2.1",
-    "@stdlib/assert-is-function": "^0.2.1",
-    "@stdlib/regexp-function-name": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
+    "@stdlib/assert-is-function": "^0.2.2",
+    "@stdlib/regexp-function-name": "^0.2.2",
+    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-buffer": "^0.2.1",
@@ -54,11 +54,11 @@
     "@stdlib/array-uint32": "^0.2.1",
     "@stdlib/array-uint8": "^0.2.1",
     "@stdlib/array-uint8c": "^0.2.1",
-    "@stdlib/assert-is-string": "^0.2.1",
-    "@stdlib/boolean-ctor": "^0.2.1",
-    "@stdlib/buffer-ctor": "^0.2.1",
-    "@stdlib/function-ctor": "^0.2.1",
-    "@stdlib/number-ctor": "^0.2.1",
+    "@stdlib/assert-is-string": "^0.2.2",
+    "@stdlib/boolean-ctor": "^0.2.2",
+    "@stdlib/buffer-ctor": "^0.2.2",
+    "@stdlib/function-ctor": "^0.2.2",
+    "@stdlib/number-ctor": "^0.2.2",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
